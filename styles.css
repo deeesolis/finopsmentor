@@ -1,5 +1,8 @@
 body {
     margin: 0;
-    background: transparent;
+    background: #104060;
+    background: -moz-linear-gradient(-45deg, #104060 0%, #2388CB 50%, #144E75 100%);
+    background: -webkit-linear-gradient(-45deg, #104060 0%, #2388CB 50%, #144E75 100%);
+    background: linear-gradient(135deg, #104060 0%, #2388CB 50%, #144E75 100%);
     text-align: center;
 }
